@@ -1,1 +1,1 @@
-https://github.com/ChanderManiPandey2022/Software-Metering-For-Intune-Managed-Devices/releases/download/v3.0/Detect-Get.Software.Metering.ps1
+https://github.com/ChanderManiPandey2022/Software-Metering-For-Intune-Managed-Devices/releases/download/v3.0/Detect-Get_Software_Metering_v3.0.ps1
